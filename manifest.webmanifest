@@ -1,0 +1,33 @@
+{
+ "id": "./",
+ "name": "Kalender Belajar UTBK SNBT dan PKN STAN 2027",
+ "short_name": "Kalender 2027",
+ "description": "Jadwal belajar, jadwal lari 12 menit, dan tanggal penting UTBK SNBT serta PKN STAN 2027. Bisa dipakai tanpa internet.",
+ "lang": "id",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#E7EAF0",
+ "theme_color": "#1B2440",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
